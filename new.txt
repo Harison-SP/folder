@@ -1,0 +1,3 @@
+helo use git init to make this folder 
+git add .
+to modify all
